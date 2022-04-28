@@ -11,4 +11,8 @@
     font-weight: 600;
     color: #777;
   }
+  &__skill:hover {
+    background: $themeClrPrimary;
+    color: white;
+  }
 }

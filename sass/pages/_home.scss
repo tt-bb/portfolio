@@ -92,6 +92,9 @@
 
 .about {
   background: rgb(250, 250, 250);
+  &__img {
+    width: 75%;
+  }
   &__content {
     display: grid;
     grid-template-columns: 1fr 1fr;

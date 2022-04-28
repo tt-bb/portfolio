@@ -248,6 +248,8 @@ textarea {
 
 .about {
   background: #fafafa; }
+  .about__img {
+    width: 75%; }
   .about__content {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -671,6 +673,9 @@ textarea {
     border-radius: 5px;
     font-weight: 600;
     color: #777; }
+  .skills__skill:hover {
+    background: #4caf50;
+    color: white; }
 
 .mouse {
   width: 25px;
